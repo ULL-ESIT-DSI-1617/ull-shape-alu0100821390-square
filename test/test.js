@@ -1,3 +1,5 @@
+'use strict';
+
 let Square = require('../lib/square');
 
 describe ("getArea Square", function() {
