@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/ull-shape-alu0100821390-square.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/ull-shape-alu0100821390-square)
+
 # Paquete npm @alu0100821390/ull-shape-square
 
 ## Descripción
