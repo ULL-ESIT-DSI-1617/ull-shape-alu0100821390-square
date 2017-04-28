@@ -1,6 +1,6 @@
 {
   "name": "@alu0100821390/ull-shape-square",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Módulo simple que representa formas cuadradas.",
   "main": "index.js",
   "scripts": {
