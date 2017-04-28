@@ -7,6 +7,6 @@ gulp.task('debug', shell.task('node --inspect --debug-brk index.js'));
 
 gulp.task('run', shell.task('node index.js'));
 
-gulp.task("test", () => {
-	gulp.src("./node_modules/mocha/bin/").pipe(shell("mocha --require should"))
-})
+gulp.task("test", shell.task("./node_modules/mocha/bin/mocha --require should"));
+
+gulp.task("doc", shell.task("documentation build index.js -f html -o docs"));
